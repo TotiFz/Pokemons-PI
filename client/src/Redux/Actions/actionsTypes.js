@@ -1,0 +1,6 @@
+export const GET_ALL_POKEMONS = 'GET_ALL_POKEMONS';
+export const GET_ALL_TYPES = 'GET_ALL_TYPES';
+export const GET_POKEMON_ID = 'GET_POKEMON_ID';
+export const GET_POKEMON_NAME = 'GET_POKEMON_NAME';
+export const SWITCH_LOADING = 'SWITCH_LOADING';
+export const CREATE_POKEMON = 'CREATE_POKEMON';
